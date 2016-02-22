@@ -1,3 +1,14 @@
-A tool for benchamrking text files as subsets of eachother.
+A utility for benchmarking various subset algorithms.
 
-Utility will load text files, convert them to arrays, then check if they are subsets of eachother using methods provided in the subsets package
+Utility will load text files, convert them to arrays, then check if they are subsets of each other using methods provided in the subsets package
+
+Also provided are small set of books for sample comparisons
+
+Example set:
+‘’’
+go run subsetsBenchmarks bible.txt shakespeare.txt
+‘’’
+
+This benchmark depends on:
+[https://github.com/JeremyOne/runeTree]
+[https://github.com/JeremyOne/subsets]
