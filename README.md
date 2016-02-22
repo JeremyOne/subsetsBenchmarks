@@ -9,7 +9,7 @@ Example set:
 go run subsetsBenchmarks bible.txt shakespeare.txt
 ```
 
-This benchmark depends on:
+This benchmark depends on these supporting libraries:
 
-https://github.com/JeremyOne/runeTree
-https://github.com/JeremyOne/subsets
+[JeremyOne/runeTree] (https://github.com/JeremyOne/runeTree)
+[JeremyOne/subsets] (https://github.com/JeremyOne/subsets)
