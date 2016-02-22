@@ -5,10 +5,10 @@ Utility will load text files, convert them to arrays, then check if they are sub
 Also provided are small set of books for sample comparisons
 
 Example set:
-‘’’
+'''
 go run subsetsBenchmarks bible.txt shakespeare.txt
-‘’’
+'''
 
 This benchmark depends on:
-[https://github.com/JeremyOne/runeTree]
-[https://github.com/JeremyOne/subsets]
+https://github.com/JeremyOne/runeTree
+https://github.com/JeremyOne/subsets
